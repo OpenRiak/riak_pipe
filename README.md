@@ -749,6 +749,6 @@ how to render it to an image using Graphviz.
 # Testing
 
 System-level tests for Riak Pipe are included with the
-[riak_test](https://github.com/basho/riak_test) repository.
+[riak_test](https://github.com/OpenRiak/riak_test) repository.
 You'll find them in the `tests` directory with names that start with
 `pipe_verify_`.
